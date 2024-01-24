@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "SMGsans", "helvetica", "arial", sans-serif;
+  webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container {
+  width: calc(100% - 24px);
+  max-width: 1600px;
+  margin: 0 auto;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+  
